@@ -139,10 +139,7 @@
   */
   @media(max-width:520px)
   {
-    form input,
-    form button {
-  
-    }
+    
     .filter-todo {
       padding: 0.5rem;
   }
