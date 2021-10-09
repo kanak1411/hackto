@@ -141,11 +141,7 @@
   {
     form input,
     form button {
-      padding: 0.5rem;
-      font-size: 1rem;
-      border: none;
-      background: white;
-      margin-left: 5px;
+  
     }
     .filter-todo {
       padding: 0.5rem;
